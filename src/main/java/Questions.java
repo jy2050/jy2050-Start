@@ -11,7 +11,7 @@ public class Questions {
          * 
          * How many variables are in the class "Vehicle"?
          */
-        // add
+        // add more
         return 3;
     }
 
